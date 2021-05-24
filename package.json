@@ -1,0 +1,27 @@
+{
+  "name": "tornado-electron",
+  "version": "1.0.0",
+  "description": "Electron app with web server on tornado electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearbur/tornado-electron.git"
+  },
+  "keywords": [
+    "electron",
+    "tornado"
+  ],
+  "author": "bearbur@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bearbur/tornado-electron/issues"
+  },
+  "homepage": "https://github.com/bearbur/tornado-electron#readme",
+  "devDependencies": {
+    "electron": "^12.0.9"
+  }
+}
